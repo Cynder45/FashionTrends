@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-style:normal;
+}
+.heading{
+    background: rgb(220, 217, 211);
+}
+.navbar{
+    height: 80px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 100px;
+   
+}
+.navbar a{
+    font-size: 30px;
+    margin-top: 50px;
+}
+.navbar_menu{
+    display: flex;
+    align-items: right;
+    list-style: none;
+    direction: rtl;
+    text-align: left;
+    color: black;
+}
+.navbar_links{
+    color: rgb(0, 0, 0);
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 100%;
+    font-size: 20px
+}
+.navbar_item{
+    height: 30px;
+}
+.head_text{
+    text-align: start;
+    justify-content: ;
+    width: 100%;
+    height: 650px;
+    
+}
+#ketik {
+    font-size: 3em;
+    font-weight:  bold ;
+    margin-top: 100px;
+    text-align: left;
+    justify-content: left;
+}
+.gambar {
+    float: right;
+    width: 500px;
+    margin: 100px ;
+    margin-top: -30px;
+    
+}
+.texting {
+    text-align: left;
+    justify-content: left;
+    top: -100px;
+    font-size: 18px;
+}
+.texting a{
+    text-decoration: none;
+    
+    background-color:cornflowerblue;
+    color: rgb(254, 254, 254);
+    transition: all 0,3 ease;
+    padding: 2px;
+    border-radius: 4px;
+    
+}
+.texting a:hover {
+    background-color: #de9b0b;
+    transition: all 0,3 ease;
+}
+.fashion img{
+    width: 20%;
+    height: 250px;
+    border-radius: 4px;
+}
+.fashion p {
+    color: rgb(88, 86, 82);
+}
+.fashion i{
+    color: rgb(163, 163, 253);
+}
+.
